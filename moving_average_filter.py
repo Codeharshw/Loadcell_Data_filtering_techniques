@@ -4,7 +4,7 @@ Moving Average Filter for Load Cell Data
 Simple and robust smoothing filter.
 Best for: Quick noise reduction, real-time applications
 
-Author: Load Cell Filtering Toolkit
+Author: Codeharshw
 License: MIT
 """
 
